@@ -1,1 +1,1 @@
-# It implements uniform manifold approximation and projection to RNA sequences to visualize cell similarities with higher dimensional data.
+An implementation of Uniform Manifold Approximation and Projection to single cell RNA sequence datasets to identify similarities between cells. 
